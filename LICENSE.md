@@ -1,4 +1,4 @@
-# 
+# 高级 Krita 工具 Mac OS版 | 原生 Krita 工具 PC Windows版。集成 雕刻 和 材质节点，跨平台性能最大化。
 
 
 
